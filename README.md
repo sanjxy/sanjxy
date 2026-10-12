@@ -1,7 +1,6 @@
 
 
 - 🔭 Currently working on nothing
-- 🌱 I’m currently learning TensorFlow
 - 📫 How to reach me: mail@sanjay.sh
 
 
